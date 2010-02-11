@@ -1,0 +1,1 @@
+Nomo is renamed to [Starman](http://github.com/miyagawa/Starman).
